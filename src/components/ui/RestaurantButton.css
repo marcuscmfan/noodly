@@ -1,0 +1,36 @@
+.restaurant-button {
+    height: 200px;
+    width: 300px;
+    border: none;
+    background: none;
+}
+
+.restaurant-button-bg {
+    height: inherit;
+    width: inherit;
+    border-radius: 25px;
+    border: 3px solid #fff;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.restaurant-button-bg:hover{
+    opacity: 0.65;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.restaurant-button-bg h2 {
+    font-family: 'Aeonik-Bold', sans-serif;
+    font-size: 30pt;
+    color: #fff;
+    white-space: normal;
+}
+
+.restaurant-button-bg:hover h2 {
+    color: var(--accent3);
+}

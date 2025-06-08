@@ -1,14 +1,22 @@
 {
-  "name": "atlas",
+  "name": "noodly",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.1",
+    "@googlemaps/js-api-loader": "^1.16.8",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "dotenv": "^16.5.0",
+    "googleapis": "^149.0.0",
+    "papaparse": "^5.5.3",
+    "prop-types": "^15.8.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-responsive": "^10.0.1",
+    "react-router-dom": "^7.6.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -16,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "netlify deploy --prod --dir=build"
   },
   "eslintConfig": {
     "extends": [

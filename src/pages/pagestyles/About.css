@@ -1,0 +1,156 @@
+/* desktop classes */
+
+.intro {
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    gap: 1rem;
+    width: 95%;
+    height: auto;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.linkedin, .mail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.intro img {
+    width: 20rem;
+    height: 26rem;
+    border-radius: 2rem;
+    margin: 1rem;
+}
+
+.intro-info {
+    border-radius: 1rem;
+    box-sizing: border-box;
+    background-color: var(--accent3);
+    padding: 0.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.about-me{
+    margin: 2rem;
+}
+
+.socials {
+    display: flex;
+
+    justify-content: center;
+    background-color: var(--light-tone);
+    box-sizing: border-box;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.project {
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    gap: 1rem;
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.imp-sources {
+    background-color: var(--white-green);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+
+.usage {
+    background-color: var(--grey-brown);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.capsule {
+    height: 75%;
+    margin: auto 0;
+    display: grid;
+    grid-template-rows: 5fr 5fr;
+    gap: 1rem;
+}
+
+
+.small-note {
+    font-size: 0.80rem;
+}
+
+/* desktop ids */
+
+#linkedin-link, #mail-link {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+}
+
+#linkedin-link:hover, #mail-link:hover {
+    text-decoration: underline;
+}
+
+#share, #linkedin, #mail {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 0;
+}
+
+
+
+#opener {
+    font-size: 1.125rem;
+}
+
+
+#exp {
+    font-size: 1.125rem;
+
+}
+
+/* mobile styles */
+
+@media (max-width: 768px) {
+    /* mobile classes */
+    .capsule {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    .intro {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .intro-info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    /*mobile ids */
+}
+
+
+
+

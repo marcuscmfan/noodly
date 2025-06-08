@@ -1,0 +1,41 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: calc(25vh - 3rem);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.search-header {
+  margin-bottom: 1rem;
+}
+
+.restaurant-list {
+  flex: 1 1 auto;
+  width: 100%;
+  min-height: 0;
+  overflow-y: auto;
+
+  list-style: none;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2em;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+/* breakpoints */
+@media (max-width: 1329px) {
+  .restaurant-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 1000px) {
+  .restaurant-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

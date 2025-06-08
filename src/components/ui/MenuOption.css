@@ -1,0 +1,21 @@
+.burgernav-cont {
+    width: 95%;
+    height: 5vh;
+    box-sizing: border-box;
+    margin: 0.25em auto;
+    display: flex;
+    background-color: var(--accent3);
+    border-radius: 10px;
+    padding: 0 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.burgernav-cont a {
+    font-family: 'Aeonik',sans-serif;
+    font-size: 1.25rem;
+
+    text-decoration: none;
+    color: black;
+}

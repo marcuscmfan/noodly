@@ -1,0 +1,121 @@
+#page-wrap {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.mobile-filters {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#filter-drop {
+    position: relative;
+    width: 95%;
+    background-color: var(--accent3);
+
+    margin: 0 auto;
+    padding: 1rem;
+
+    box-sizing: border-box;
+    border: 0.25rem solid var(--dark-tone);
+    border-radius: 1rem;
+
+    font-family: 'Aeonik-Bold',sans-serif;
+    font-size: 1.125rem;
+    color: black;
+}
+
+#location-drop,
+#main-drop ul,
+#main-drop li ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    left: 0;
+}
+
+#location-drop li,
+#main-drop ul li,
+#option {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    box-sizing: border-box;
+}
+
+#locations-drop-button, #ratings-drop-button, #parking-drop-button {
+    margin: 0.25 0;
+}
+
+#main-drop {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+}
+
+#main-drop button {
+    width: 100%;
+    padding: 0.75rem;
+    box-sizing: border-box;
+    border: 0.25rem solid var(--dark-tone);
+    border-radius: 1rem;
+    font-family: 'Aeonik-Bold',sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+
+#main-drop li {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#main-drop li > ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: var(--accent3);
+    border-radius: 1rem;
+    box-sizing: border-box;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.mobile-rests {
+    list-style: none;
+}
+
+#rest {
+    width: 90%;
+    margin: 0.5rem 0;
+    padding: 1.125rem;
+
+    font-family: 'Aeonik', sans-serif;
+    font-size: 1.125rem;
+    text-align: center;
+
+    box-sizing: border-box;
+    border: 0.125rem solid var(--dark-tone);
+    border-radius: 1rem;
+
+}
+
+.rest-info {
+    color: white;
+    font-family: 'Aeonik-Bold', sans-serif;
+    font-size: 1.125rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}

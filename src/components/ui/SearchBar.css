@@ -1,0 +1,11 @@
+input {
+    padding: 8px 12px;
+    width: 60%;
+    border: 3px solid #4E342E;
+    border-radius: 12px;
+    font-family: 'Aeonik', sans-serif;
+}
+
+.search-bar{
+    font-family: 'Aeonik-Bold',sans-serif;
+}

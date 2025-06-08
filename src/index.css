@@ -5,9 +5,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--base);
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overflow-x: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+:root {
+  --base: #F3EEEA;
+  --accent1: #776B5D;
+  --white-green: #F8F3D9;
+  --light-tone: #efe9dd;
+  --dark-tone: #36312a;
+  --grey-brown: #EBE5C2;
+  --accent3: #EBE3D5;
+}
+
+h1, h2, h3 {
+  font-family: 'Aeonik-Bold', sans-serif;
+}
+
+p, a, span, Link {
+  font-family: 'Aeonik', sans-serif;
 }

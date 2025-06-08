@@ -1,0 +1,205 @@
+[
+  {
+    "id": "ramen-danbo-robson",
+    "name": "ramen danbo robson",
+    "imageUrl": "/images/ramen-danbo-robson.jpg",
+    "to": "/places/Danbo",
+    "number": "(604) 559-8112",
+    "address": "1333 Robson St, Vancouver, BC V6E 1C6",
+    "menulink": "https://ramendanbo.com/our-menu-vancouver/",
+    "lat": "49.287449",
+    "lng": "-123.128899",
+    "hours": ["11:00 - 23:00","11:00 - 23:00","11:00 - 23:00","11:00 - 23:00","11:00 - 23:00","11:00 - 23:00","11:00 - 23:00"],
+    "description": "Ramen Danbo Robson brings the soul of Fukuoka’s famed Hakata-style tonkotsu ramen to the heart of Vancouver. Known for its rich, creamy pork broth and perfectly textured noodles, Danbo offers a truly customizable ramen experience—from noodle firmness to broth thickness and spice level. Whether you're a ramen purist or craving bold, modern flavors, each bowl is handcrafted with precision and authenticity. Cozy, bustling, and always satisfying, Ramen Danbo Robson is a must-visit destination for noodle lovers seeking a taste of Japan without leaving the city."
+    ,"location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  },
+  {
+    "id": "kinton-ramen-robson",
+    "name": "kinton ramen robson",
+    "imageUrl": "/images/kinton-ramen-robson.jpg",
+    "to": "/places/Kinton",
+    "number": "(604) 428-0999",
+    "address": "420 Robson St, Vancouver, BC V6B 0H3",
+    "menulink": "https://kintonramen.com/menu/british-columbia/",
+    "lat": "49.279580",
+    "lng": "-123.117147",
+    "hours": ["11:00 - 24:00","11:00 - 24:00","11:00 - 24:00","11:00 - 24:00","11:00 - 24:00","11:00 - 24:00","11:00 - 24:00"],
+    "description": "Kinton Ramen Robson serves up bold, flavor-packed bowls of ramen in a vibrant and modern setting. Specializing in thick, hearty broths and springy noodles made in-house, Kinton delivers a uniquely satisfying ramen experience with every visit. Choose from rich pork, chicken, or vegetarian bases and customize your toppings to suit your cravings. With its upbeat atmosphere, generous portions, and consistently high-quality ingredients, Kinton Ramen on Robson is a go-to spot for both ramen newcomers and seasoned slurpers alike."
+    ,"location": ["All","North Vancouver"],
+    "rating": ["Any", "5"],
+    "parking": ["All", "Free"]
+  },
+  {
+    "id": "tenton-ramen",
+    "name": "tenton ramen",
+    "imageUrl": "/images/tenton-ramen.jpg",
+    "to": "/places/TenTon",
+    "number": "(604) 912-0288",
+    "address": "1731 Marine Dr, West Vancouver, BC V7V 1J5",
+    "menulink": "https://drive.google.com/file/d/1C3yFKTCaGeF_A0QouY84fx8kbhFSYgWM/view",
+    "lat": "49.328882",
+    "lng": "-123.160988",
+    "hours": ["11:30 - 20:45", "11:30 - 20:30", "11:30 - 20:30", "11:30 - 20:30","11:30 - 20:30","11:30 - 21:00", "11:30 - 21:00"],
+    "description": "Tenton Ramen N Tonkatsu blends the best of two Japanese comfort food staples—creamy, flavorful ramen and crispy, golden tonkatsu—into one unforgettable dining experience. Located on Robson, Tenton is known for its rich broths, perfectly cooked noodles, and expertly breaded pork cutlets that add a satisfying crunch to every bite. With a cozy, welcoming atmosphere and a menu that balances tradition with bold flavor combinations, Tenton is the perfect spot for a hearty, soul-warming meal that hits all the right notes."
+  },
+  {
+    "id": "kintaro-ramen",
+    "name": "kintaro ramen",
+    "imageUrl": "/images/kintaro-ramen.jpg",
+    "to": "/places/Kintaro",
+    "number": "(604) 682-7568",
+    "address": "788 Denman St, Vancouver, BC V6G 1E2",
+    "menulink": "https://kintaroramen.shop/menu",
+    "lat": "49.291550",
+    "lng": "-123.135071",
+    "hours": ["11:30 - 21:00", "Closed", "11:30 - 21:00", "11:30 - 21:00","11:30 - 21:00","11:30 - 21:30", "11:30 - 21:30"],
+    "description": "Kintaro Ramen is a Vancouver institution, beloved for its no-frills, full-flavor approach to authentic Japanese ramen. Tucked just off Robson, this cozy, always-buzzing spot has been serving up generous bowls of rich, handcrafted broth and chewy, house-made noodles for years. Choose from light, medium, or rich broths to suit your cravings, and watch the chefs prepare your ramen right at the open kitchen counter. With its hearty portions, affordable prices, and cult following, Kintaro delivers a warm, nostalgic ramen experience that keeps locals and visitors coming back again and again."
+
+  },
+  {
+  "id": "jinya-ramen-bar",
+  "name": "jinya ramen bar",
+  "imageUrl": "/images/jinya-ramen-downtown.jpg",
+  "to": "/places/Jinya",
+  "number": "(604) 699-9377",
+  "address": "541 Robson St. Vancouver, BC V6B 2B7",
+  "menulink": "https://www.jinyaramenbar.com/menu/bc/vancouver/",
+  "lat": "49.2754",
+  "lng": "-123.1204",
+  "hours": [
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 23:00",
+    "11:00 - 23:00"
+  ],
+  "description": "Nestled in the heart of downtown Vancouver on Robson Street, JINYA Ramen Bar offers a contemporary Japanese dining experience featuring slow-simmered broths, hand-crafted noodles, and a variety of crave-worthy small plates and cocktails. Known for its signature Tonkotsu Black, Spicy Chicken Ramen, and vegan options, JINYA combines modern, sleek interiors with authentic flavors, making it the perfect spot for ramen enthusiasts and social gatherings alike."
+  ,"location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  },
+  {
+  "id": "kinton-ramen-north-vancouver",
+  "name": "kinton ramen north vancouver",
+  "imageUrl": "/images/kinton-ramen-north-vancouver.jpg",
+  "to": "/places/KintonNorth",
+  "number": "(604) 969-2310",
+  "address": "1325 Lonsdale Ave #105, North Vancouver, BC V7M 2H7",
+  "menulink": "https://kintonramen.com/menu/british-columbia/",
+  "lat": "49.3167",
+  "lng": "-123.0667",
+  "hours": [
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00"
+  ],
+  "description": "Situated in the vibrant Lower Lonsdale district of North Vancouver, Kinton Ramen North Vancouver offers fully customizable bowls featuring slow-simmered broths, springy noodles, and fresh toppings. With a modern, welcoming dining space and menu options ranging from classic Tonkotsu and Spicy Miso to vegetarian and vegan broths, Kinton delivers fast, friendly service and a lively atmosphere perfect for any ramen craving.",
+  "location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  },
+  {
+  "id": "maruhachi-ra-men-westend",
+  "name": "maruhachi west end",
+  "imageUrl": "/images/maruhachi-ramen-westend.jpg",
+  "to": "/places/MaruhachiWestend",
+  "number": "(604) 688-8837",
+  "address": "780 Bidwell St, Vancouver, BC V6G 2J6",
+  "menulink": "https://maruhachi.ca/westend-menu/",
+  "lat": "49.246292",
+  "lng": "-123.116226",
+  "hours": [
+    "11:30 - 21:30",
+    "11:30 - 21:30",
+    "11:30 - 21:30",
+    "11:30 - 21:30",
+    "11:30 - 21:30",
+    "11:30 - 22:00",
+    "11:30 - 22:00"
+  ],
+  "description": "Maruhachi Ra-men’s Westend outpost at 780 Bidwell Street pioneered the creamy Tori-Paitan chicken broth in Vancouver. In a minimalist, modern setting, they serve rich, collagen-filled ramen alongside Japanese small plates and drinks, making it a must-visit for ramen enthusiasts seeking authentic, soul-warming comfort.",
+  "location": ["All","Vancouver"],
+  "rating": ["Any", "4"],
+  "parking": ["All", "Paid & Free"]
+  },
+  {
+  "id": "the-ramen-butcher-chinatown",
+  "name": "the ramen butcher",
+  "imageUrl": "/images/the-ramen-butcher.jpg",
+  "to": "/places/TheRamenButcher",
+  "number": "604-806-4646",
+  "address": "223 E Georgia St, Vancouver, BC V6A 1Z6",
+  "menulink": "https://theramenbutcher.com/order_chinatown.html",
+  "lat": "49.27882",
+  "lng": "-123.09841",
+  "hours": [
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00"
+  ],
+  "description": "Located in Chinatown at 223 E Georgia St, The Ramen Butcher specializes in authentic Hakata-style tonkotsu ramen with rich, slow-simmered broths, handmade noodles, and Japanese rice bowls and gyoza, served daily in a casual setting."
+  ,"location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  },
+  {
+  "id": "horin-ramen-robson",
+  "name": "horin ramen robson",
+  "imageUrl": "/images/horin-ramen-robson.jpg",
+  "to": "/places/Horin",
+  "number": "(604) 620-6111",
+  "address": "1226 Robson St, Vancouver, BC V6E 1C1",
+  "menulink": "https://horinramen.com/wp-content/uploads/2024/02/Horin-Menu-2024.pdf",
+  "lat": "49.2827",
+  "lng": "-123.1207",
+  "hours": [
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00",
+    "11:30 - 22:00"
+  ],
+  "description": "At 1226 Robson Street, Horin Ramen & Sake brings authentic Fukuoka tonkotsu ramen to Vancouver with hand-crafted broths, spicy tare sauce, and house-made noodles, in a modern setting offering a curated sake selection for a complete dining experience."
+  ,"location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  },
+  {
+  "id": "ramen-gojiro",
+  "name": "ramen gojiro",
+  "imageUrl": "/images/ramen-gojiro.jpg",
+  "to": "/places/Gojiro",
+  "number": "604-673-0918",
+  "address": "501 Dunsmuir Street, Vancouver, BC V6B 1Y4",
+  "menulink": "https://ramengojiro.com/menu.html",
+  "lat": "49.2827",
+  "lng": "-123.1207",
+  "hours": [
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00",
+    "11:00 - 22:00"
+  ],
+  "description": "Ramen Gojiro at 501 Dunsmuir Street is Canada’s first Jiro-style ramen shop, serving voluminous bowls of rich pork and chicken broth with generous toppings and thick noodles, alongside a full menu of Japanese sides in a lively downtown atmosphere."
+  ,"location": ["All","North Vancouver"],
+  "rating": ["Any", "5"],
+  "parking": ["All", "Free"]
+  }
+]

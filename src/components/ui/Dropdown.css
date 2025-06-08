@@ -1,0 +1,33 @@
+.drop-wrapper {
+    position: relative;
+    z-index: 1000;
+}
+
+.drop {
+  position: relative;
+  top: 100%;
+  width: 100%;
+  border: none;
+  border-radius: 1rem;
+  background: white;
+  z-index: 1000;
+  list-style: none;
+  padding: 1rem;
+}
+
+.drop-button {
+    z-index: 1000;
+    background-color: var(--accent3);
+    height: 3rem;
+    min-width: 8rem;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    border: 0.25rem solid var(--dark-tone);
+    cursor: pointer;
+}
+
+#option {
+    font-family: 'Aeonik', sans-serif;
+    padding: 0.5rem 0;
+    cursor: pointer;
+}

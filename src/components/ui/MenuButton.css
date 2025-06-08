@@ -1,0 +1,27 @@
+.menu-button {
+    margin: 1.5em;
+    border-radius: 25px;
+    border: none;
+    background-color: var(--accent2);
+    font-family: 'Aeonik-Bold',sans-serif;
+    font-size: 16pt;
+    display: flex;
+    align-items: center;
+    box-shadow: none;
+    color: black;
+}
+
+.menu-button:hover {
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.24),0 13px 20px 0 rgba(0,0,0,0.19);
+}
+
+.menu-button img {
+    width: 32px;
+    height: 32px;
+}
+
+.content {
+    margin: 0 auto;
+    display: flex;
+    gap: 10px;
+}
